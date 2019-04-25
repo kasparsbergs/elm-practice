@@ -31,7 +31,9 @@ Long story short...
 # OK now..
 
 <img src='assets/why_elm.jpg'>
+
 ### Introduction
+
 Elm is a domain-specific programming language for declaratively creating web browser-based graphical user interfaces. Elm is purely functional, and is developed with emphasis on usability, performance, and robustness. It advertises "no runtime exceptions in practice", made possible by the Elm compiler's static type checking.
 
 ---
@@ -106,7 +108,7 @@ best results!
 
 ---
 
-### writing code is the Elm repl
+### writing code in the Elm repl
 
 in terminal type `elm repl`
 
@@ -183,7 +185,7 @@ Hint: Only strings and lists are appendable.
 "apple" : String
 ```
 
-##### Usefull error explanations from the compiler..
+##### Useful error explanations from the compiler..
 
 ```elm
 > "a"+"pple"
