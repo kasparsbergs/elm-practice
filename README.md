@@ -2,6 +2,11 @@
 
 ## Revisiting elm...
 
+### Elm talk video
+
+
+[![video](https://i.ytimg.com/vi/RFrKffrKCeU/maxresdefault.jpg)](https://www.youtube.com/watch?v=RFrKffrKCeU)
+
 Long story short...
 
 <img src="assets/javascript.jpeg">
